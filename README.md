@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nguyen+Dong+Quan+%F0%9F%91%8B;CS+Student+%40+Ton+Duc+Thang+University;ML+%2F+AI+Engineer+in+progress..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dinh+Bui+Khanh+Huy+%F0%9F%91%8B;CS+Student+%40+Ton+Duc+Thang+University;ML+%2F+AI+Engineer+in+progress..." alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,linux,docker,js,react,nodejs,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,opencv,git,docker,js,react,nodejs,postgres&theme=dark)](https://skillicons.dev)
 
 </div>
 
