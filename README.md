@@ -40,7 +40,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🇻🇳 **[Vietnamese VQA](https://github.com/)** | Benchmarked 4 VQA architectures on OpenViVQA (37k QA pairs). Best model: Qwen2-VL-2B fine-tuned with QLoRA → **ROUGE-L 61.8%, BERTScore-F1 85.6%** | PyTorch · Qwen2-VL · LoRA |
+| 🇻🇳 **[Vietnamese VQA](https://github.com/Tdesius/OpenViVQA)** | Benchmarked 4 VQA architectures on OpenViVQA (37k QA pairs). Best model: Qwen2-VL-2B fine-tuned with QLoRA → **ROUGE-L 61.8%, BERTScore-F1 85.6%** | PyTorch · Qwen2-VL · LoRA |
 | 🤚 **[HaGRID Gesture Recognition](https://github.com/)** | EfficientNet-B0 fine-tuned on 34 gesture classes → **97.8% val accuracy**, real-time webcam demo at 20+ FPS | PyTorch · timm · OpenCV |
 
 ---
