@@ -49,12 +49,12 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GTRe5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTRe5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tdesius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tdesius&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GTRe5&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tdesius&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=GTRe5&style=flat-square&color=6366F1)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Tdesius&style=flat-square&color=6366F1)
 
 *Open to AI/ML internship and entry-level roles in Vietnam 🇻🇳*
 
